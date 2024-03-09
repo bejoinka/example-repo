@@ -4,7 +4,7 @@
     "action": {
       "_key": "nbpdG624gt8B",
       "definition_id": "nbpdG624gt8B",
-      "title": "Message",
+      "title": "Some New Message",
       "step_definition_id": "1BKdhN_ev8be",
       "stakeholder_definition_ids": [
         "7f0KSxNUtMu_"
@@ -16,7 +16,7 @@
       },
       "type": "message",
       "last_updated": {
-        "date": "2024-03-09T01:19:45.539Z",
+        "date": "2024-03-09T01:54:35.391Z",
         "user_id": "DlyKaTavL2CUsGNtPYO_1"
       },
       "message_definition_id": "FW_WAaYltY50"
