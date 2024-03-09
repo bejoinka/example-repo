@@ -1,0 +1,26 @@
+[
+  {
+    "type": "form",
+    "form": {
+      "_key": "XiCh0ahYwYWL",
+      "definition_id": "XiCh0ahYwYWL",
+      "title": "Form with datepicker",
+      "key": "formWithDatepicker",
+      "question_definition_ids": [
+        "laua4L3ps3R_"
+      ],
+      "team_ids": [
+        "J68w6ux2ZLSS3txoRCh6C"
+      ],
+      "user_id": "DlyKaTavL2CUsGNtPYO_1",
+      "created": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T14:42:38.878Z"
+      },
+      "last_updated": {
+        "date": "2024-03-09T14:42:57.144Z",
+        "user_id": "DlyKaTavL2CUsGNtPYO_1"
+      }
+    }
+  }
+]

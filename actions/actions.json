@@ -21,5 +21,29 @@
       },
       "message_definition_id": "FW_WAaYltY50"
     }
+  },
+  {
+    "type": "action",
+    "action": {
+      "_key": "L2yqBfuX5xP_",
+      "definition_id": "L2yqBfuX5xP_",
+      "title": "Form with datepicker",
+      "step_definition_id": "1BKdhN_ev8be",
+      "stakeholder_definition_ids": [
+        "7f0KSxNUtMu_"
+      ],
+      "location_definition_ids": [],
+      "created": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T14:42:22.066Z"
+      },
+      "type": "form",
+      "last_updated": {
+        "date": "2024-03-09T14:43:03.540Z",
+        "user_id": "DlyKaTavL2CUsGNtPYO_1"
+      },
+      "form_definition_id": "XiCh0ahYwYWL",
+      "form_display_mode": "conversational"
+    }
   }
 ]

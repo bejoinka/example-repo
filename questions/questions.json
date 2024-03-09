@@ -1,0 +1,28 @@
+[
+  {
+    "type": "question",
+    "question": {
+      "_key": "laua4L3ps3R_",
+      "definition_id": "laua4L3ps3R_",
+      "form_definition_id": "XiCh0ahYwYWL",
+      "dataPointValueType": "date",
+      "questionType": "input",
+      "userQuestionType": "date",
+      "key": "whatsTheDateToday",
+      "title": "what's the date today?",
+      "options": [],
+      "questionConfig": {
+        "recode_enabled": false,
+        "mandatory": false
+      },
+      "created": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T14:42:42.806Z"
+      },
+      "last_updated": {
+        "date": "2024-03-09T14:42:48.089Z",
+        "user_id": "DlyKaTavL2CUsGNtPYO_1"
+      }
+    }
+  }
+]

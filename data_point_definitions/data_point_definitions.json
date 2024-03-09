@@ -398,5 +398,26 @@
       },
       "qualified_key": "Newstep.ActivationDate"
     }
+  },
+  {
+    "type": "data_point_definition",
+    "data_point_definition": {
+      "_key": "laua4L3ps3R_",
+      "definition_id": "laua4L3ps3R_",
+      "source_definition_id": "XiCh0ahYwYWL",
+      "category": "form",
+      "key": "",
+      "valueType": "date",
+      "possibleValues": [],
+      "created": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T14:42:42.806Z"
+      },
+      "last_updated": {
+        "date": "2024-03-09T14:42:48.089Z",
+        "user_id": "DlyKaTavL2CUsGNtPYO_1"
+      },
+      "qualified_key": "formWithDatepicker.whatsTheDateToday"
+    }
   }
 ]
