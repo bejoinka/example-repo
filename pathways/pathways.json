@@ -1,0 +1,19 @@
+[
+  {
+    "type": "pathway",
+    "pathway": {
+      "_key": "01lwC35aMM_O",
+      "definition_id": "01lwC35aMM_O",
+      "title": "hello world",
+      "created": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T01:16:52.057Z"
+      },
+      "team_id": "J68w6ux2ZLSS3txoRCh6C",
+      "last_updated": {
+        "date": "2024-03-09T01:19:12.745Z",
+        "user_id": "DlyKaTavL2CUsGNtPYO_1"
+      }
+    }
+  }
+]

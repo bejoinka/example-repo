@@ -1,0 +1,27 @@
+[
+  {
+    "type": "step",
+    "step": {
+      "_key": "1BKdhN_ev8be",
+      "type": "step",
+      "definition_id": "1BKdhN_ev8be",
+      "title": "New step",
+      "key": "Newstep",
+      "label_definition_ids": [],
+      "action_definition_ids": [],
+      "track_definition_id": "GDH3k_reV4Iz",
+      "coordinates": {
+        "x": 448,
+        "y": 240
+      },
+      "created": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T01:19:07.879Z"
+      },
+      "last_updated": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T01:19:07.879Z"
+      }
+    }
+  }
+]

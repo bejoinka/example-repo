@@ -1,0 +1,27 @@
+[
+  {
+    "type": "track",
+    "track": {
+      "_key": "GDH3k_reV4Iz",
+      "definition_id": "GDH3k_reV4Iz",
+      "title": "Default track",
+      "key": "Defaulttrack",
+      "start_coordinates": {
+        "x": 250,
+        "y": 250
+      },
+      "end_coordinates": {
+        "x": 800,
+        "y": 250
+      },
+      "created": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T01:16:52.085Z"
+      },
+      "last_updated": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T01:16:52.085Z"
+      }
+    }
+  }
+]

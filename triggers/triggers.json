@@ -1,0 +1,23 @@
+[
+  {
+    "type": "trigger",
+    "trigger": {
+      "_key": "UVyP_BMS3IIX",
+      "definition_id": "UVyP_BMS3IIX",
+      "pathway_id": "01lwC35aMM_O",
+      "target_id": "GDH3k_reV4Iz",
+      "target_type": "track",
+      "created": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T01:16:52.119Z"
+      },
+      "last_updated": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T01:16:52.139Z"
+      },
+      "settings": {
+        "type": "pathway_started"
+      }
+    }
+  }
+]
