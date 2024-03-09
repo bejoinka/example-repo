@@ -8,7 +8,9 @@
       "title": "New step",
       "key": "Newstep",
       "label_definition_ids": [],
-      "action_definition_ids": [],
+      "action_definition_ids": [
+        "nbpdG624gt8B"
+      ],
       "track_definition_id": "GDH3k_reV4Iz",
       "coordinates": {
         "x": 448,
@@ -19,8 +21,8 @@
         "date": "2024-03-09T01:19:07.879Z"
       },
       "last_updated": {
-        "user_id": "DlyKaTavL2CUsGNtPYO_1",
-        "date": "2024-03-09T01:19:07.879Z"
+        "date": "2024-03-09T01:19:42.417Z",
+        "user_id": "DlyKaTavL2CUsGNtPYO_1"
       }
     }
   }

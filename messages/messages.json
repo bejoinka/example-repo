@@ -1,0 +1,24 @@
+[
+  {
+    "type": "message",
+    "message": {
+      "_key": "FW_WAaYltY50",
+      "definition_id": "FW_WAaYltY50",
+      "body": "[{\"type\":\"p\",\"children\":[{\"text\":\"asdf\"}]}]",
+      "dynamic_variable_definition_ids": [],
+      "html_body": "<p class=\"slate-p\">asdf</p>",
+      "attachments": null,
+      "format": "html",
+      "subject": "asdf",
+      "created": {
+        "user_id": "DlyKaTavL2CUsGNtPYO_1",
+        "date": "2024-03-09T01:19:42.507Z"
+      },
+      "last_updated": {
+        "date": "2024-03-09T01:19:48.974Z",
+        "user_id": "DlyKaTavL2CUsGNtPYO_1"
+      },
+      "constant_ids": []
+    }
+  }
+]
